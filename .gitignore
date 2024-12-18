@@ -1,0 +1,5 @@
+# Example entries
+/bin/
+/obj/
+debug.log
+*.env
